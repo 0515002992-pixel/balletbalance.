@@ -1,0 +1,39 @@
+body {
+  font-family: Georgia;
+  background: #f9eaea;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.post {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  background: #e5bcbc;
+  border: none;
+  border-radius: 8px;
+}
+
+.hidden {
+  display: none;
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+}
+
+/* GAME */
+#dancer {
+  font-size: 80px;
+}
